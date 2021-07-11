@@ -1,0 +1,11 @@
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.exe
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.deps.json
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.runtimeconfig.json
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.runtimeconfig.dev.json
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.dll
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\bin\Debug\netcoreapp3.1\ipaddress.pdb
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\obj\Debug\netcoreapp3.1\ipaddress.csprojAssemblyReference.cache
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\obj\Debug\netcoreapp3.1\ipaddress.AssemblyInfoInputs.cache
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\obj\Debug\netcoreapp3.1\ipaddress.AssemblyInfo.cs
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\obj\Debug\netcoreapp3.1\ipaddress.dll
+C:\Users\GIRIRAJ\source\repos\ipaddress\ipaddress\obj\Debug\netcoreapp3.1\ipaddress.pdb
